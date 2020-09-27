@@ -25,6 +25,7 @@ div {
 .main {
   background-color: #ecf2f9;
   padding: 0px 0px 0px 25%;
+  max-width: 75%
 }
 
 #edu {
