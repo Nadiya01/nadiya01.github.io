@@ -15,7 +15,7 @@ div {
 }
 
 .nav {
-  background-color: #336699;
+  background-color: #4B709A;
   max-width: 25%;
   min-width: 140px;
   float:left;
@@ -24,7 +24,7 @@ div {
 
 .main {
   padding-left: 10px;
-  max-width: 75%;
+  float: Right;
 }
 
 
