@@ -24,8 +24,8 @@ div {
 }
 
 .main {
-  float:right;
   padding-left: 10px;
+  max-width: 75%;
 }
 
 
