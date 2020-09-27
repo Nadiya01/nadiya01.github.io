@@ -21,14 +21,17 @@ div {
   min-width: 140px;
   float:left;
   padding:10px;
-  margin: 10px
+  margin: 10px;
 }
 
 .main {
   background-color: #ecf2f9;
   padding: 10px;
-  margin: 10px
+  margin: 10px;
 }
 
-
+#edu {
+  padding-right: 10px;
+}
+  
 
